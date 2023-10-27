@@ -10,7 +10,6 @@ of over 95%.
 - Leveraged Numpy and imutils to enhance image processing and manipulation capabilities within the
 project, resulting in faster and more efficient processing of video frames.
 - Created a comprehensive video explaining the project's implementation and results, which can be
-viewed in the given links
+viewed in the given links link: https://www.youtube.com/watch?v=O82pYYSgDvw
 # Links
-link: https://www.youtube.com/watch?v=O82pYYSgDvw
 shape_predictor_68_face_landmarks: https://drive.google.com/file/d/1grO8oD92YqFQm9vYem-RHTdBRkexfz46/view?usp=sharing
